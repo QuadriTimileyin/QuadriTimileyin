@@ -37,6 +37,9 @@ I'm Quadri Timileyin a Full Stack Web Developer. I Spend most of time coding out
 
 #### Coding Stats
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 #### Github Stats
