@@ -4,7 +4,7 @@ I'm Quadri Timileyin a Full Stack Web Developer. I Spend most of time coding out
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Timmy__west-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Timmy__west)](https://twitter.com/Ipenywis)  [![Linkedin Badge](https://img.shields.io/badge/-Timmywest-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Timmywest/) [![Mail Badge](https://img.shields.io/badge/-@Timmywest-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/QuadriTimileyin) [![Mail Badge](https://img.shields.io/badge/-Timmyywest-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:timmyywest007@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Timmy__west-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Timmy__west)](https://twitter.com/Timmy__west)  <!--[![Linkedin Badge](https://img.shields.io/badge/-Timmywest-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Timmywest/) [![Mail Badge](https://img.shields.io/badge/-@Timmywest-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/QuadriTimileyin)--> [![Mail Badge](https://img.shields.io/badge/-Timmyywest-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:timmyywest007@gmail.com)
 
 <!-- TODO: Add last video link -->
 
