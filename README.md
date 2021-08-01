@@ -44,20 +44,16 @@ No Activity tracked this Week
 
 #### Github Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuadriTimileyin&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Timileyin's GitHub stats](https://github-readme-stats.vercel.app/api?username=QuadriTimileyin&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <details>
 <summary>
   More stuff about me
 </summary>
 
 <br >
-
-I love sharing knowledge and putting tutorials, courses and posts together for helping other developers, and tjat's why CoderOne Youtube Channel exists!
+  
+I love sharing knowledge and working together with other developers.
 
 </details>
 
 
-[reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
-[vscodetutorial]: https://www.youtube.com/watch?v=Bkie2ai8qeE&t=8s
-[htmltutorial]: https://www.youtube.com/watch?v=VK6MXVxOsws&t=27s
-[javascripttutorial]: https://www.youtube.com/watch?v=D-LHKvmX37E
