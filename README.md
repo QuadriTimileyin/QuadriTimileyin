@@ -38,7 +38,11 @@ I'm Quadri Timileyin a Full Stack Web Developer. I Spend most of time coding out
 #### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   11 hrs 31 mins  ████████████████████████▒   97.27 % 
+CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+XML          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+HTML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 <!--END_SECTION:waka-->
 
