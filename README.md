@@ -13,7 +13,7 @@ I'm Quadri Timileyin a Full Stack Web Developer. I Spend most of time coding out
 - 🤔 I’m looking for help with Outstanding project ideas.
 - 📫 How to reach me: Timmyywest007@gmail.com.
 - 😄 Pronouns: TimmyWest, AlphaCode, BaronCody.
-- ⚡ Fun fact: I play games and go to the workout very often.
+- ⚡ Fun fact: I play games and read books very often.
 
 #### Top Technologies
 
