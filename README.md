@@ -4,7 +4,7 @@ I'm Timmy. I Spend most of time working on live projects or learning new stuff.
 
 ✉️ Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@Timmy__west-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Timmy__west)](https://twitter.com/Timmy__west)    [![Mail Badge](https://img.shields.io/badge/-Timmyywest-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:timidev34@gmail.com)
+   [![Mail Badge](https://img.shields.io/badge/-Timmyywest-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:timidev34@gmail.com)
 
 - 🔭 I’m currently working as a Senior mobile developer 
 - 🤔 I’m looking for help with Outstanding project ideas.
