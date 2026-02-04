@@ -1,27 +1,42 @@
-## Hi I'm Timileyin <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi there, I'm Timileyin (Timmy) Quadri <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Timmy. I Spend most of time working on live projects or learning new stuff.
+**Senior Software Engineer & Tech Lead** specializing in building high-performance, cross-platform mobile applications and scalable web ecosystems. 
 
-✉️ Reach me out!
+With over 6 years of experience, I have delivered **30+ production-grade applications** with a consistent focus on 98% crash-free reliability and high-speed delivery. Currently, I lead the technical architecture at **JustParkwell**, managing a multi-platform ecosystem across three international markets.
 
-   [![Mail Badge](https://img.shields.io/badge/-Timmyywest-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:timidev34@gmail.com)
+---
 
-- 🔭 I’m currently working as a Senior mobile developer 
-- 🤔 I’m looking for help with Outstanding project ideas.
-- 📫 How to reach me: Timidev34@gmail.com.
-- 😄 Pronouns: TimmyWest, AlphaCode.
-- ⚡ Fun fact: I play games and read novels very often.
+### 🚀 Quick Overview
 
-#### Top Technologies
+- 🔭 **Currently Leading:** Full Stack development for JustParkwell (Mobile, Web, and Backend).
+- 📱 **Mobile Expertise:** Advanced Flutter/Dart, BLoC, Riverpod, and Native Method Channels (Swift/Kotlin).
+- 🌐 **Web & Backend:** React, Next.js, Node.js, and complex API integrations.
+- ⚡ **Performance Focused:** Specialist in mobile performance optimization, biometric security, and real-time data sync.
+- 📫 **Let's Connect:** [timidev34@gmail.com](mailto:timidev34@gmail.com)
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)[![Flutter Badge](https://img.shields.io/badge/-Flutter-007acc?style=for-the-badge&labelColor=black&logo=flutter&logoColor=007acc)](#)[![Ionic Badge](https://img.shields.io/badge/-Ionic-007acc?style=for-the-badge&labelColor=black&logo=ionic&logoColor=007acc)](#)
+---
 
+### 🛠️ Core Technologies
 
+**Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-#### Business
-- ✉️ Timidev34@gmail.com
+**Web & Backend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+**DevOps & Tools**
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+---
 
+### 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=quadritimileyin&show_icons=true&theme=tokyonight" alt="Timmy's GitHub Stats" />
+</p>
 
+---
 
+### 💬 Get in Touch
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/quadritimileyin) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&logo=gmail&logoColor=white)](mailto:timidev34@gmail.com)
+
+*"Building scalable solutions that bridge the gap between complex data and seamless user experience."*
