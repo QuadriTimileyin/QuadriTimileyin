@@ -8,7 +8,6 @@ With over 6 years of experience, I have delivered **30+ production-grade applica
 
 ### 🚀 Quick Overview
 
-- 🔭 **Currently Leading:** Full Stack development for JustParkwell (Mobile, Web, and Backend).
 - 📱 **Mobile Expertise:** Advanced Flutter/Dart, BLoC, Riverpod, and Native Method Channels (Swift/Kotlin).
 - 🌐 **Web & Backend:** React, Next.js, Node.js, and complex API integrations.
 - ⚡ **Performance Focused:** Specialist in mobile performance optimization, biometric security, and real-time data sync.
