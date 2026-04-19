@@ -32,13 +32,6 @@ With over 8 years of experience, I have delivered **30+ production-grade applica
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=quadritimileyin&show_icons=true&theme=tokyonight" alt="Timmy's GitHub Stats" />
-</p>
-
----
-
 ### 💬 Get in Touch
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/quadritimileyin) [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&logo=gmail&logoColor=white)](mailto:timidev34@gmail.com)
 
